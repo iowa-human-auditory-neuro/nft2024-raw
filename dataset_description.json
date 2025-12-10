@@ -1,13 +1,12 @@
 {
-    "Name": "",
+    "Name": "Neurofeedback Training of Auditory Selective Attention",
     "BIDSVersion": "1.10.0",
     "HEDVersion": "8.2.0",
     "DatasetType": "raw",
-    "License": "",
+    "License": "CC-BY-4.0",
     "Authors": [
-        "",
-        "",
-        ""
+        "Jusung Ham",
+        "Inyong Choi"
     ],
     "Acknowledgements": "",
     "HowToAcknowledge": "",
