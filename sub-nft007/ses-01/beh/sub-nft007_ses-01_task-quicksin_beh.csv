@@ -1,0 +1,5 @@
+﻿nft_id,exp_id,session,ear,trial,list,SNR_12,SNR_9,SNR_6,SNR_3,SNR_0,SNR_-3,total,SNR-loss,note
+NFT007,WJ1031,1,left,1,1,4,5,5,5,4,0,23,2.5,"Matlab S/N 12,9,6,3,0,-3"
+NFT007,WJ1031,1,right,1,2,5,5,5,5,4,0,24,1.5,"Matlab S/N 12,9,6,3,0,-3"
+NFT007,WJ1031,1,left,2,3,5,5,5,4,2,0,21,4.5,"Matlab S/N 12,9,6,3,0,-3"
+NFT007,WJ1031,1,right,2,4,5,5,5,4,2,0,21,4.5,"Matlab S/N 12,9,6,3,0,-3"

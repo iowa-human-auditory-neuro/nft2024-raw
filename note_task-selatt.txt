@@ -1,0 +1,21 @@
+EEG:
+	raw:
+		channel_index:
+			1: trigger
+			2-64: EEG
+			78: envelope
+		sampling_frequecny: 2048
+		data_dimension: trial,channel,time
+		duration: ~25 mins
+		baseline: 
+		montage: Biosemi64median206subjects10percentLarger_dig.fif
+	events:
+		1: aud_stim_onset_of_block_1
+		2: aud_stim_onset_of_block_2
+		20: vis_stim_onset_of_question
+	note:
+		- Latin square counterbalancing has not been completed due to nft003 only 
+		- EEG data for the nft011_ses02 has not been saved properly
+finishing the first session
+stimulus:
+	duration: ~25 mins

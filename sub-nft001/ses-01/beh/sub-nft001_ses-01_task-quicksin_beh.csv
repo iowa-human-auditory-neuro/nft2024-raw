@@ -1,0 +1,7 @@
+﻿nft_id,exp_id,session,ear,trial,list,SNR_25,SNR_20,SNR_15,SNR_10,SNR_5,SNR_0,total,SNR-loss,note
+NFT001,WJ0950,1,right,1,1,5,5,5,5,5,0,25,0.5,audiometer
+NFT001,WJ0950,1,left,1,2,5,5,5,5,2,0,22,3.5,audiometer
+NFT001,WJ0950,1,left,2,3,5,5,5,5,4,0,24,1.5,computer
+NFT001,WJ0950,1,right,2,4,5,5,5,5,5,0,25,0.5,computer
+NFT001,WJ0950,1,right,3,5,5,5,5,4,0,0,19,6.5,"computer adjusted S/N 8,4,2,1,0,-1"
+NFT001,WJ0950,1,left,3,6,5,4,3,0,0,0,12,13.5,"computer adjusted S/N 8,4,2,1,0,-1"

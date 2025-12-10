@@ -1,0 +1,25 @@
+EEG:
+	raw:
+		channel_index:
+			1: trigger
+			2-64: EEG
+			78: envelope
+		sampling_frequecny: 2048
+		data_dimension: trial,channel,time
+		duration: 5
+		baseline: 2
+		montage: Biosemi64median206subjects10percentLarger_dig.fif
+	events:
+		1: stim_onset
+		% For NFT013, 15, 16, and 17
+		1-20: trial_num
+		101: stim_vis_target
+		102: stim_aud_onset
+		103: vis_feedback
+	note:
+		sub-nft005_ses-01_run-05: Cannot use EEG data; Onset event code is 6684928
+		sub-nft005_ses-01_run-06: Cannot use EEG data; Includes additional event code (7733503)
+		sub-nft006_ses-02_run-06: Includes additional event code (7733503)
+		sub-nft015_ses-02_run-04: Epoch 16 has not been saved
+stimulus:
+	duration: 3

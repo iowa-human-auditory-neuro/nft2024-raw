@@ -1,0 +1,5 @@
+﻿nft_id,exp_id,session,ear,trial,list,SNR_25,SNR_20,SNR_15,SNR_10,SNR_5,SNR_0,total,SNR-loss,note
+NFT003,WJ0968,1,left,1,1,5,5,5,4,5,0,24,1.5,60dB
+NFT003,WJ0968,1,right,1,2,5,5,5,5,5,1,26,-0.5,60dB
+NFT003,WJ0968,1,left,2,3,5,5,5,5,4,0,24,1.5,60dB
+NFT003,WJ0968,1,right,2,4,5,5,5,4,4,0,23,2.5,60dB

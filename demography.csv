@@ -1,0 +1,19 @@
+﻿nft_id,age,year_of_birth,gender,race,ethnicity
+NFT000,24,2000,male,White,Not Hispanic or Latino
+NFT001,23,2001,female,White,Not Hispanic or Latino
+NFT002,32,1992,male,White,Hispanic or Latino
+NFT003,34,1991,female,White,Hispanic or Latino
+NFT004,25,1999,female,White,Not Hispanic or Latino
+NFT005,28,1996,male,White,Hispanic or Latino
+NFT006,26,1998,female,White,Not Hispanic or Latino
+NFT007,21,2003,female,Asian,Not Hispanic or Latino
+NFT008,24,2000,male,White,Not Hispanic or Latino
+NFT009,27,1998,male,Asian,Not Hispanic or Latino
+NFT010,23,2001,female,White,Not Hispanic or Latino
+NFT011,23,2002,female,White,Not Hispanic or Latino
+NFT012,23,2001,female,White,Not Hispanic or Latino
+NFT014,33,1992,male,White,Not Hispanic or Latino
+NFT013,24,2000,male,White,Not Hispanic or Latino
+NFT015,36,1989,female,White,Not Hispanic or Latino
+NFT016,19,2006,female,White,Not Hispanic or Latino
+NFT017,21,2004,female,Black or African american,Not Hispanic or Latino
