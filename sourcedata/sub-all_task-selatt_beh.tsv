@@ -1,4 +1,4 @@
-subject	session	target	target_audio_id	distractor_audio_id	hit_rate
+participant_id	session	target	target_audio_id	distractor_audio_id	hit_rate
 nft001	1	male	AM-1	KM-1	0.9
 nft001	1	female	KM-2	AM-2	1
 nft001	2	male	AM-6	KM-6	1

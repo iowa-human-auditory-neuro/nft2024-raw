@@ -1,4 +1,4 @@
-﻿nft_id	exp_id	session	ear	250	500	1000	2000	4000	6000	8000	10000	12500	16000
+﻿participant_id	exp_id	session	ear	250	500	1000	2000	4000	6000	8000	10000	12500	16000
 NFT000	WJ0948	1	left	5	0	0	-5	-5	-5	0	-5	0	5
 NFT000	WJ0948	1	right	10	5	5	0	0	5	0	5	-10	5
 NFT001	WJ0950	1	left	5	5	10	0	-5	0	-5	-5	-15	-15
