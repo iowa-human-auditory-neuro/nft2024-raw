@@ -1,0 +1,265 @@
+﻿nft_id	exp_id	session	ear	trial	list	SNR_12	SNR_9	SNR_6	SNR_3	SNR_0	SNR_-3	total	SNR-loss	note	SNR_-1	presentation_level
+NFT000	WJ0948	1	left	1	1	5	5	5	5	5	0	25	0.5	audiometer_25-5-0		70
+NFT000	WJ0948	1	right	1	2	5	5	5	5	4	2	26	-0.5	audiometer_25-5-0		70
+NFT000	WJ0948	1	left	2	3	5	5	5	5	4	0	24	1.5	audiometer_25-5-0		70
+NFT000	WJ0948	1	right	2	4	5	5	5	5	5	1	26	-0.5	audiometer_25-5-0		70
+NFT000	WJ0949	2	left	1	5	5	5	5	4	5	0	24	1.5	audiometer_25-5-0		70
+NFT000	WJ0949	2	right	1	6	5	5	3	5	5	2	25	0.5	audiometer_25-5-0		70
+NFT000	WJ0949	2	left	2	7	5	5	5	5	5	2	27	-1.5	audiometer_25-5-0		70
+NFT000	WJ0949	2	right	2	8	5	5	5	5	5	1	26	-0.5	audiometer_25-5-0		70
+NFT001	WJ0950	1	right	1	1	5	5	5	5	5	0	25	0.5	audiometer_25-5-0		70
+NFT001	WJ0950	1	left	1	2	5	5	5	5	2	0	22	3.5	audiometer_25-5-0		70
+NFT001	WJ0950	1	left	2	3	5	5	5	5	4	0	24	1.5	matlab_25-5-0		
+NFT001	WJ0950	1	right	2	4	5	5	5	5	5	0	25	0.5	matlab_25-5-0		
+NFT001	WJ0950	1	right	3	5	5	5	5	4	0	0	19	6.5	matlab_8-4-2-1-0--1		
+NFT001	WJ0950	1	left	3	6	5	4	3	0	0	0	12	13.5	matlab_8-4-2-1-0--1		
+NFT001	WJ0958	2	left	1	1	5	5	4	5	1	0	20	5.5	audiometer_25-5-0		70
+NFT001	WJ0958	2	right	1	4	5	5	5	5	3	1	24	1.5	audiometer_25-5-0		70
+NFT001	WJ0958	2	left	2	2	5	5	4	5	2	1	22	3.5	audiometer_25-5-0		70
+NFT001	WJ0958	2	right	2	5	5	5	5	4	1	0	20	5.5	audiometer_25-5-0		70
+NFT001	WJ0958	2	left	3	3	5	5	5	5	2	0	22	3.5	audiometer_25-5-0		70
+NFT001	WJ0958	2	right	3	11	5	5	4	2	2	0	18	7.5	audiometer_25-5-0		70
+NFT001	WJ0964	3	left	1	1	5	5	5	5	5	4	29	-3.5	matlab_25-5-0		
+NFT001	WJ0964	3	right	1	2	5	5	5	5	5	4	29	-3.5	matlab_25-5-0		
+NFT001	WJ0964	3	left	2	7	5	5	5	5	4	0	24	1.5	audiometer_25-5-0		70
+NFT001	WJ0964	3	right	2	8	5	5	5	5	3	0	23	2.5	audiometer_25-5-0		70
+NFT001	WJ0964	3	left	3	9	5	5	5	5	5	1	26	-0.5	audiometer_25-5-0		70
+NFT001	WJ0964	3	right	3	10	5	5	5	5	5	0	25	0.5	audiometer_25-5-0		70
+NFT001	WJ0964	3	left	4	11	5	5	5	5	4	4	28	-2.5	audiometer_25-5-0		70
+NFT001	WJ0964	3	right	4	12	5	5	5	5	5	2	27	-1.5	audiometer_25-5-0		70
+NFT002	WJ0967	1	left	1	1	5	4	5	5	5	2	26	-0.5	matlab_25-5-0		
+NFT002	WJ0967	1	right	1	3	5	5	5	5	5	3	28	-2.5	matlab_25-5-0		
+NFT002	WJ0967	1	left	2	2	5	5	4	5	5	5	29	-3.5	matlab_25-5-0		
+NFT002	WJ0967	1	right	2	4	5	5	5	5	5	3	28	-2.5	matlab_25-5-0		
+NFT002	WJ0967	1	left	3	5	5	5	5	4	2	0	21	4.5	audiometer_25-5-0		60
+NFT002	WJ0967	1	right	3	7	5	4	4	5	5	0	23	2.5	audiometer_25-5-0		60
+NFT002	WJ0967	1	left	4	6	5	5	5	4	5	0	24	1.5	audiometer_25-5-0		60
+NFT002	WJ0967	1	right	4	8	5	5	5	5	5	2	27	-1.5	audiometer_25-5-0		60
+NFT002	WJ0969	2	left	1	5	5	5	5	4	4	0	23	2.5	audiometer_25-5-0		70
+NFT002	WJ0969	2	right	1	7	5	4	4	5	5	2	25	0.5	audiometer_25-5-0		70
+NFT002	WJ0969	2	left	2	6	5	5	5	4	5	2	26	-0.5	audiometer_25-5-0		70
+NFT002	WJ0969	2	right	2	8	5	5	5	5	5	3	28	-2.5	audiometer_25-5-0		70
+NFT002	WJ0972	3	left	1	9	5	5	5	5	5	1	26	-0.5	audiometer_25-5-0		70
+NFT002	WJ0972	3	right	1	11	5	5	4	5	4	0	23	2.5	audiometer_25-5-0		70
+NFT002	WJ0972	3	left	2	10	5	5	5	5	4	0	24	1.5	audiometer_25-5-0		70
+NFT002	WJ0972	3	right	2	12	5	4	5	5	5	2	26	-0.5	audiometer_25-5-0		70
+NFT003	WJ0968	1	left	1	1	5	5	5	4	5	0	24	1.5	audiometer_25-5-0		60
+NFT003	WJ0968	1	right	1	2	5	5	5	5	5	1	26	-0.5	audiometer_25-5-0		60
+NFT003	WJ0968	1	left	2	3	5	5	5	5	4	0	24	1.5	audiometer_25-5-0		60
+NFT003	WJ0968	1	right	2	4	5	5	5	4	4	0	23	2.5	audiometer_25-5-0		60
+NFT004	WJ0975	1	left	1	1	5	5	5	5	5	0	25	0.5	audiometer_25-5-0		70
+NFT004	WJ0975	1	right	1	2	5	5	5	5	4	2	26	-0.5	audiometer_25-5-0		70
+NFT004	WJ0975	1	left	2	3	5	5	5	5	4	1	25	0.5	audiometer_25-5-0		70
+NFT004	WJ0975	1	right	2	4	5	5	5	5	5	0	25	0.5	audiometer_25-5-0		70
+NFT004	WJ0976	2	left	1	5	5	5	4	4	4	0	22	3.5	audiometer_25-5-0		70
+NFT004	WJ0976	2	right	1	7	5	5	4	4	4	0	22	3.5	audiometer_25-5-0		70
+NFT004	WJ0976	2	left	2	6	5	5	5	5	4	0	24	1.5	audiometer_25-5-0		70
+NFT004	WJ0976	2	right	2	8	5	5	5	5	5	3	28	-2.5	audiometer_25-5-0		70
+NFT005	WJ0980	1	left	1	1	5	5	5	5	5	0	25	0.5			-30
+NFT005	WJ0980	1	right	1	2	5	5	5	5	5	0	25	0.5			-30
+NFT005	WJ0980	1	left	2	3	5	5	5	5	4	1	25	0.5			-30
+NFT005	WJ0980	1	right	2	4	5	5	5	5	2	0	22	3.5			-30
+NFT005	WJ0984	2	left	1	5	5	5	5	5	5	0	25	0.5			-30
+NFT005	WJ0984	2	right	1	7	5	5	4	5	4	1	24	1.5			-30
+NFT005	WJ0984	2	left	2	6	5	5	4	5	2	1	22	3.5			-30
+NFT005	WJ0984	2	right	2	8	5	5	5	5	2	1	23	2.5			-30
+NFT004	WJ0985	3	left	1	9	5	5	5	5	5	1	26	-0.5	audiometer_25-5-0		70
+NFT004	WJ0985	3	right	1	11	5	5	5	5	3	0	23	2.5	audiometer_25-5-0		70
+NFT004	WJ0985	3	left	2	10	5	5	5	5	5	0	25	0.5	audiometer_25-5-0		70
+NFT004	WJ0985	3	right	2	12	5	5	5	5	5	0	25	0.5	audiometer_25-5-0		70
+NFT005	WJ0991	3	left	1	9	5	5	5	4	3	1	23	2.5			-30
+NFT005	WJ0991	3	right	1	11	5	5	4	5	4	0	23	2.5			-30
+NFT005	WJ0991	3	left	2	10	5	5	5	5	4	0	24	1.5			-30
+NFT005	WJ0991	3	right	2	12	5	5	5	5	5	1	26	-0.5			-30
+NFT006	WJ0992	1	left	1	1	5	5	5	5	2	0	22	3.5			-30
+NFT006	WJ0992	1	right	1	2	5	5	5	5	4	0	24	1.5			-30
+NFT006	WJ0992	1	left	2	3	5	5	5	5	4	0	24	1.5			-30
+NFT006	WJ0992	1	right	2	4	5	5	5	4	2	0	21	4.5			-30
+NFT006	WJ1001	2	left	1	5	5	5	5	4	4	0	23	2.5			-30
+NFT006	WJ1001	2	right	1	7	5	5	5	5	4	0	24	1.5			-30
+NFT006	WJ1001	2	left	2	6	5	5	5	5	3	0	23	2.5			-30
+NFT006	WJ1001	2	right	2	8	5	5	5	5	2	0	22	3.5			-30
+NFT006	WJ1007	3	left	1	9	5	5	5	4	3	1	23	2.5			-30
+NFT006	WJ1007	3	right	1	11	5	5	4	5	3	0	22	3.5			-30
+NFT006	WJ1007	3	left	2	10	5	5	4	5	4	0	23	2.5			-30
+NFT006	WJ1007	3	right	2	12	5	5	5	5	5	0	25	0.5			-30
+NFT007	WJ1031	1	left	1	1	4	5	5	5	4	0	23	2.5			-30
+NFT007	WJ1031	1	right	1	2	5	5	5	5	4	0	24	1.5			-30
+NFT007	WJ1031	1	left	2	3	5	5	5	4	2	0	21	4.5			-30
+NFT007	WJ1031	1	right	2	4	5	5	5	4	2	0	21	4.5			-30
+NFT008	WJ1032	1	left	1	1	5	5	5	4	5	0	24	1.5			-30
+NFT008	WJ1032	1	right	1	2	5	5	5	5	5	0	25	0.5			-30
+NFT008	WJ1032	1	left	2	3	5	5	5	5	5	0	25	0.5			-30
+NFT008	WJ1032	1	right	2	4	5	5	5	4	0	0	19	6.5			-30
+NFT008	WJ1041	2	left	1	5	5	5	5	4	0	0	19	6.5			-30
+NFT008	WJ1041	2	right	1	7	5	5	5	5	0	0	20	5.5			-30
+NFT008	WJ1041	2	left	2	6	5	5	5	4	5	0	24	1.5			-30
+NFT008	WJ1041	2	right	2	8	5	5	5	5	0	3	23	2.5			-30
+NFT009	WJ1042	1	left	1	1	4	5	5	5	2	0	21	4.5			-30
+NFT009	WJ1042	1	right	1	2	5	4	4	5	3	0	21	4.5			-30
+NFT009	WJ1042	1	left	2	3	5	5	5	1	2	0	18	7.5			-30
+NFT009	WJ1042	1	right	2	4	5	5	5	4	3	0	22	3.5			-30
+NFT007	WJ1043	2	left	1	5	5	5	5	5	2	0	22	3.5			-30
+NFT007	WJ1043	2	right	1	7	5	5	5	5	2	0	22	3.5		2	-30
+NFT007	WJ1043	2	left	2	6	5	5	5	5	5	0	25	0.5			-30
+NFT007	WJ1043	2	right	2	8	5	5	5	5	2	1	23	2.5		2	-30
+NFT008	WJ1046	3	left	1	9	5	5	5	3	0	0	18	7.5			-30
+NFT008	WJ1046	3	right	1	11	5	5	4	5	3	0	22	3.5			-30
+NFT008	WJ1046	3	left	2	10	5	5	5	5	2	0	22	3.5			-30
+NFT008	WJ1046	3	right	2	12	5	5	5	5	3	0	23	2.5			-30
+NFT007	WJ1047	3	left	1	9	5	5	5	3	2	1	21	4.5		4	-30
+NFT007	WJ1047	3	left	2	10	5	5	5	5	5	0	25	0.5		4	-30
+NFT007	WJ1047	3	right	1	11	5	4	4	5	0	0	18	7.5		0	-30
+NFT007	WJ1047	3	right	2	12	5	5	5	5	1	0	21	4.5		2	-30
+NFT010	WJ1048	1	left	1	1	5	5	5	5	2	0	22	3.5		0	-30
+NFT010	WJ1048	1	right	1	2	5	5	5	5	5	2	27	-1.5		3	-30
+NFT010	WJ1048	1	left	2	3	4	5	5	5	4	0	23	2.5		0	-30
+NFT010	WJ1048	1	right	2	4	5	5	5	4	3	0	22	3.5		1	-30
+NFT009	WJ1049	2	left	1	5	5	5	5	4	2	0	21	4.5		0	-30
+NFT009	WJ1049	2	left	2	6	5	5	4	4	1	0	19	6.5		1	-30
+NFT009	WJ1049	2	right	1	7	5	5	5	5	0	0	20	5.5		0	-30
+NFT009	WJ1049	2	right	2	8	5	5	5	5	3	0	23	2.5		2	-30
+NFT011	WJ1054	1	left	1	1	5	5	5	5	5	0	25	0.5		0	-30
+NFT011	WJ1054	1	right	1	2	5	5	5	5	5	2	27	-1.5		2	-30
+NFT011	WJ1054	1	left	2	3	5	5	5	5	4	0	24	1.5		3	-30
+NFT011	WJ1054	1	right	2	4	5	5	5	5	5	0	25	0.5		5	-30
+NFT010	WJ1055	2	left	1	5	4	5	5	4	1	0	19	6.5		1	-30
+NFT010	WJ1055	2	left	1	6	5	5	5	5	5	0	25	0.5		5	-30
+NFT010	WJ1055	2	right	2	7	5	5	5	5	3	0	23	2.5		5	-30
+NFT010	WJ1055	2	right	2	8	5	5	5	5	2	1	23	2.5		4	-30
+NFT009	WJ1056	3	left	1	9	5	5	5	3	3	0	21	4.5		4	-30
+NFT009	WJ1056	3	left	1	10	5	5	5	5	0	0	20	5.5		0	-30
+NFT009	WJ1056	3	right	2	11	5	5	4	5	0	0	19	6.5		0	-30
+NFT009	WJ1056	3	right	2	12	5	5	5	4	1	0	20	5.5		2	-30
+NFT012	WJ1057	1	left	1	1	5	5	5	5	5	0	25	0.5		1	-30
+NFT012	WJ1057	1	right	1	2	5	5	5	5	5	0	25	0.5		3	-30
+NFT012	WJ1057	1	left	2	3	5	5	5	5	4	0	24	1.5		0	-30
+NFT012	WJ1057	1	right	2	4	5	5	5	5	2	0	22	3.5		5	-30
+NFT011	WJ1058	2	left	1	5	5	5	5	5	3	0	23	2.5		0	-30
+NFT011	WJ1058	2	left	2	6	5	5	5	4	2	0	21	4.5		5	-30
+NFT011	WJ1058	2	right	1	7	5	5	5	5	5	0	25	0.5		4	-30
+NFT011	WJ1058	2	right	2	8	5	5	5	5	2	0	22	3.5		5	-30
+NFT010	WJ1059	3	left	1	9	5	5	5	4	3	1	23	2.5		5	-30
+NFT010	WJ1059	3	left	2	10	5	5	5	5	3	0	23	2.5		3	-30
+NFT010	WJ1059	3	right	1	11	5	5	4	5	4	0	23	2.5		2	-30
+NFT010	WJ1059	3	right	2	12	5	5	5	5	5	0	25	0.5		2	-30
+NFT012	WJ1060	2	left	1	5	5	5	5	4	4	0	23	2.5		0	-30
+NFT012	WJ1060	2	left	2	6	5	5	3	3	5	0	21	4.5		2	-30
+NFT012	WJ1060	2	right	1	7	5	5	5	5	0	0	20	5.5		5	-30
+NFT012	WJ1060	2	right	2	8	5	5	5	5	2	0	22	3.5		5	-30
+NFT011	WJ1061	3	left	1	9	5	5	5	3	5	1	24	1.5		5	-30
+NFT011	WJ1061	3	left	2	10	5	5	5	5	2	0	22	3.5		4	-30
+NFT011	WJ1061	3	right	1	11	5	5	4	5	4	0	23	2.5		2	-30
+NFT011	WJ1061	3	right	2	12	5	4	5	5	5	2	26	-0.5		2	-30
+NFT012	WJ1062	3	left	1	9	5	5	5	5	3	1	24	1.5		3	-30
+NFT012	WJ1062	3	left	2	10	5	5	5	4	3	0	22	3.5		3	-30
+NFT012	WJ1062	3	right	1	11	5	5	4	5	2	0	21	4.5		0	-30
+NFT012	WJ1062	3	right	2	12	5	5	5	5	5	0	25	0.5		3	-30
+NFT014	WJ1065	1	left	1	1	5	5	5	5	2	0	22	3.5	matlab_12-9-6-3-0--3	0	-30
+NFT014	WJ1065	1	right	1	2	5	5	5	5	4	0	24	1.5	matlab_12-9-6-3-0--3	3	-30
+NFT014	WJ1065	1	left	2	3	5	5	5	5	1	0	21	4.5	matlab_12-9-6-3-0--3	3	-30
+NFT014	WJ1065	1	right	2	4	5	5	5	5	2	0	22	3.5	matlab_12-9-6-3-0--3	3	-30
+NFT014	WJ1068	2	left	1	5	5	5	5	5	3	0	23	2.5	matlab_12-9-6-3-0--3	0	-30
+NFT014	WJ1068	2	left	1	6	5	5	5	4	1	0	20	5.5	matlab_12-9-6-3-0--3	5	-30
+NFT014	WJ1068	2	right	2	7	5	5	5	5	4	0	24	1.5	matlab_12-9-6-3-0--3	3	-30
+NFT014	WJ1068	2	right	2	8	5	5	5	5	3	0	23	2.5	matlab_12-9-6-3-0--3	5	-30
+NFT014	WJ1070	3	left	1	9	5	5	5	4	2	1	22	3.5	matlab_12-9-6-3-0--3	4	-30
+NFT014	WJ1070	3	left	1	10	5	5	5	5	5	0	25	0.5	matlab_12-9-6-3-0--3	4	-30
+NFT014	WJ1070	3	right	2	11	5	5	4	5	0	0	19	6.5	matlab_12-9-6-3-0--3	0	-30
+NFT014	WJ1070	3	right	2	12	5	5	5	5	5	0	25	0.5	matlab_12-9-6-3-0--3	3	-30
+NFT013	WJ1071	1	left	1	1	5	5	5	5	5	0	25	0.5	matlab_12-9-6-3-0--3	0	-30
+NFT013	WJ1071	1	right	1	2	5	5	5	5	4	0	24	1.5	matlab_12-9-6-3-0--3	4	-30
+NFT013	WJ1071	1	left	2	3	5	5	5	5	4	0	24	1.5	matlab_12-9-6-3-0--3	0	-30
+NFT013	WJ1071	1	right	2	4	5	5	5	5	3	0	23	2.5	matlab_12-9-6-3-0--3	4	-30
+NFT013	WJ1072	2	left	1	5	5	5	5	4	4	0	23	2.5	matlab_12-9-6-3-0--3	0	-30
+NFT013	WJ1072	2	left	1	6	5	5	4	5	3	0	22	3.5	matlab_12-9-6-3-0--3	5	-30
+NFT013	WJ1072	2	right	2	7	5	5	5	5	4	0	24	1.5	matlab_12-9-6-3-0--3	1	-30
+NFT013	WJ1072	2	right	2	8	5	5	5	5	3	0	23	2.5	matlab_12-9-6-3-0--3	4	-30
+NFT015	WJ1074	1	left	1	1	5	5	5	5	2	0	22	3.5	matlab_12-9-6-3-0--3	0	-30
+NFT015	WJ1074	1	right	1	2	5	5	5	5	5	0	25	0.5	matlab_12-9-6-3-0--3	4	-30
+NFT015	WJ1074	1	left	2	3	4	5	5	5	0	0	19	6.5	matlab_12-9-6-3-0--3	2	-30
+NFT015	WJ1074	1	right	2	4	5	5	5	5	2	0	22	3.5	matlab_12-9-6-3-0--3	0	-30
+NFT013	WJ1076	3	left	1	9	5	5	5	5	5	1	26	-0.5	matlab_12-9-6-3-0--3	2	-30
+NFT013	WJ1076	3	left	1	10	5	5	5	5	5	0	25	0.5	matlab_12-9-6-3-0--3	4	-30
+NFT013	WJ1076	3	right	2	11	5	5	5	5	4	0	24	1.5	matlab_12-9-6-3-0--3	1	-30
+NFT013	WJ1076	3	right	2	12	5	5	5	4	4	2	25	0.5	matlab_12-9-6-3-0--3	2	-30
+NFT015	WJ1077	2	left	1	5	5	5	5	5	4	0	24	1.5	matlab_12-9-6-3-0--3	0	-30
+NFT015	WJ1077	2	left	1	6	5	5	4	5	5	0	24	1.5	matlab_12-9-6-3-0--3	5	-30
+NFT015	WJ1077	2	right	2	7	5	5	5	5	2	0	22	3.5	matlab_12-9-6-3-0--3	3	-30
+NFT015	WJ1077	2	right	2	8	5	5	5	5	3	0	23	2.5	matlab_12-9-6-3-0--3	5	-30
+NFT016	WJ1079	1	left	1	1	5	5	4	5	3	0	22	3.5	matlab_12-9-6-3-0--3	0	-30
+NFT016	WJ1079	1	right	1	2	5	5	5	5	4	0	24	1.5	matlab_12-9-6-3-0--3	2	-30
+NFT016	WJ1079	1	left	2	3	5	5	5	5	2	0	22	3.5	matlab_12-9-6-3-0--3	5	-30
+NFT016	WJ1079	1	right	2	4	5	5	5	4	5	0	24	1.5	matlab_12-9-6-3-0--3	3	-30
+NFT017	WJ1080	1	left	1	1	5	5	5	5	5	0	25	0.5	matlab_12-9-6-3-0--3	0	-30
+NFT017	WJ1080	1	right	1	2	5	5	5	5	5	0	25	0.5	matlab_12-9-6-3-0--3	4	-30
+NFT017	WJ1080	1	left	2	3	5	5	5	5	5	0	25	0.5	matlab_12-9-6-3-0--3	0	-30
+NFT017	WJ1080	1	right	2	4	5	5	5	5	4	0	24	1.5	matlab_12-9-6-3-0--3	4	-30
+NFT015	WJ1081	3	left	1	9	5	5	5	4	3	1	23	2.5	matlab_12-9-6-3-0--3	5	-30
+NFT015	WJ1081	3	left	1	10	5	5	5	5	5	0	25	0.5	matlab_12-9-6-3-0--3	4	-30
+NFT015	WJ1081	3	right	2	11	5	5	4	5	3	0	22	3.5	matlab_12-9-6-3-0--3	2	-30
+NFT015	WJ1081	3	right	2	12	5	5	5	5	3	0	23	2.5	matlab_12-9-6-3-0--3	2	-30
+NFT016	WJ1082	2	left	1	5	5	5	5	5	2	0	22	3.5	matlab_12-9-6-3-0--3	0	-30
+NFT016	WJ1082	2	left	1	6	5	5	5	4	4	0	23	2.5	matlab_12-9-6-3-0--3	5	-30
+NFT016	WJ1082	2	right	2	7	5	5	5	5	5	0	25	0.5	matlab_12-9-6-3-0--3	5	-30
+NFT016	WJ1082	2	right	2	8	5	5	5	5	2	0	22	3.5	matlab_12-9-6-3-0--3	5	-30
+NFT017	WJ1083	2	left	1	5	5	5	5	5	4	0	24	1.5	matlab_12-9-6-3-0--3	0	-30
+NFT017	WJ1083	2	left	1	6	5	5	5	5	5	0	25	0.5	matlab_12-9-6-3-0--3	0	-30
+NFT017	WJ1083	2	right	2	7	5	5	5	5	4	0	24	1.5	matlab_12-9-6-3-0--3	5	-30
+NFT017	WJ1083	2	right	2	8	5	5	5	5	2	0	22	3.5	matlab_12-9-6-3-0--3	5	-30
+NFT016	WJ1084	3	left	1	9	5	5	5	4	3	1	23	2.5	matlab_12-9-6-3-0--3	5	-30
+NFT016	WJ1084	3	left	1	10	5	5	5	5	4	0	24	1.5	matlab_12-9-6-3-0--3	1	-30
+NFT016	WJ1084	3	right	2	11	5	5	4	5	2	0	21	4.5	matlab_12-9-6-3-0--3	0	-30
+NFT016	WJ1084	3	right	2	12	5	5	5	5	5	0	25	0.5	matlab_12-9-6-3-0--3	2	-30
+NFT017	WJ1085	3	left	1	9	5	5	5	5	3	0	23	2.5	matlab_12-9-6-3-0--3	5	-30
+NFT017	WJ1085	3	left	1	10	5	5	5	5	5	0	25	0.5	matlab_12-9-6-3-0--3	0	-30
+NFT017	WJ1085	3	right	2	11	5	5	5	5	4	0	24	1.5	matlab_12-9-6-3-0--3	0	-30
+NFT017	WJ1085	3	right	2	12	5	5	5	5	4	0	24	1.5	matlab_12-9-6-3-0--3	3	-30
+NFT018	WJ1092	1	left	1	1	5	5	5	5	0	0	20	5.5	matlab_12-9-6-3-0--3	0	-30
+NFT018	WJ1092	1	right	1	2	5	5	5	5	4	0	24	1.5	matlab_12-9-6-3-0--3	5	-30
+NFT018	WJ1092	1	left	2	3	5	5	5	4	4	0	23	2.5	matlab_12-9-6-3-0--3	0	-30
+NFT018	WJ1092	1	right	2	4	5	5	5	5	5	0	25	0.5	matlab_12-9-6-3-0--3	0	-30
+NFT018	WJ1097	2	left	1	5	5	5	5	4	0	0	19	6.5	matlab_12-9-6-3-0--3	0	-30
+NFT018	WJ1097	2	left	1	6	5	5	4	4	0	0	18	7.5	matlab_12-9-6-3-0--3	0	-30
+NFT018	WJ1097	2	right	2	7	5	5	5	5	0	0	20	5.5	matlab_12-9-6-3-0--3	0	-30
+NFT018	WJ1097	2	right	2	8	5	5	5	5	3	0	23	2.5	matlab_12-9-6-3-0--3	0	-30
+NFT018	WJ1103	3	left	1	9	5	5	5	4	4	0	23	2.5	matlab_12-9-6-3-0--3	4	-30
+NFT018	WJ1103	3	left	1	10	5	5	5	5	3	0	23	2.5	matlab_12-9-6-3-0--3	0	-30
+NFT018	WJ1103	3	right	2	11	5	5	5	5	0	0	20	5.5	matlab_12-9-6-3-0--3	3	-30
+NFT018	WJ1103	3	right	2	12	5	5	5	5	5	0	25	0.5	matlab_12-9-6-3-0--3	0	-30
+NFT019	WJ1098	1	left	1	1	5	5	5	5	4	0	24	1.5	matlab_12-9-6-3-0--3	0	-30
+NFT019	WJ1098	1	right	1	2	5	5	5	5	2	0	22	3.5	matlab_12-9-6-3-0--3	3	-30
+NFT019	WJ1098	1	left	2	3	5	5	5	5	4	0	24	1.5	matlab_12-9-6-3-0--3	1	-30
+NFT019	WJ1098	1	right	2	4	5	5	5	5	3	0	23	2.5	matlab_12-9-6-3-0--3	3	-30
+NFT019	WJ1104	2	left	1	5	5	5	5	4	4	0	23	2.5	matlab_12-9-6-3-0--3	0	-30
+NFT019	WJ1104	2	left	1	6	5	5	4	4	5	0	23	2.5	matlab_12-9-6-3-0--3	5	-30
+NFT019	WJ1104	2	right	2	7	5	4	4	5	0	0	18	7.5	matlab_12-9-6-3-0--3	3	-30
+NFT019	WJ1104	2	right	2	8	5	5	5	5	2	0	22	3.5	matlab_12-9-6-3-0--3	5	-30
+NFT019	WJ1110	3	left	1	9	5	5	5	4	3	1	23	2.5	matlab_12-9-6-3-0--3	2	-30
+NFT019	WJ1110	3	left	1	10	5	5	5	5	2	0	22	3.5	matlab_12-9-6-3-0--3	5	-30
+NFT019	WJ1110	3	right	2	11	5	5	4	5	3	0	22	3.5	matlab_12-9-6-3-0--3	4	-30
+NFT019	WJ1110	3	right	2	12	5	5	5	5	5	0	25	0.5	matlab_12-9-6-3-0--3	2	-30
+NFT020	WJ1099	1	left	1	1	5	5	5	5	5	0	25	0.5	matlab_12-9-6-3-0--3	1	-30
+NFT020	WJ1099	1	right	1	2	5	5	5	5	5	1	26	-0.5	matlab_12-9-6-3-0--3	4	-30
+NFT020	WJ1099	1	left	2	3	5	5	5	5	4	0	24	1.5	matlab_12-9-6-3-0--3	2	-30
+NFT020	WJ1099	1	right	2	4	5	5	5	5	3	0	23	2.5	matlab_12-9-6-3-0--3	4	-30
+NFT020	WJ1105	2	left	1	5	5	5	5	5	3	0	23	2.5	matlab_12-9-6-3-0--3	1	-30
+NFT020	WJ1105	2	left	1	6	5	5	5	5	3	0	23	2.5	matlab_12-9-6-3-0--3	5	-30
+NFT020	WJ1105	2	right	2	7	5	5	5	5	0	1	21	4.5	matlab_12-9-6-3-0--3	5	-30
+NFT020	WJ1105	2	right	2	8	5	5	5	5	2	0	22	3.5	matlab_12-9-6-3-0--3	5	-30
+NFT020	WJ1108	3	left	1	9	5	5	5	4	3	1	23	2.5	matlab_12-9-6-3-0--3	2	-30
+NFT020	WJ1108	3	left	1	10	5	5	5	5	5	1	26	-0.5	matlab_12-9-6-3-0--3	3	-30
+NFT020	WJ1108	3	right	2	11	5	5	4	5	4	0	23	2.5	matlab_12-9-6-3-0--3	3	-30
+NFT020	WJ1108	3	right	2	12	5	5	5	5	5	0	25	0.5	matlab_12-9-6-3-0--3	3	-30
+NFT021	WJ1100	1	left	1	1	5	5	5	5	2	0	22	3.5	matlab_12-9-6-3-0--3	2	-30
+NFT021	WJ1100	1	right	1	2	5	5	5	5	5	1	26	-0.5	matlab_12-9-6-3-0--3	3	-30
+NFT021	WJ1100	1	left	2	3	5	5	5	5	5	0	25	0.5	matlab_12-9-6-3-0--3	1	-30
+NFT021	WJ1100	1	right	2	4	5	5	5	5	4	1	25	0.5	matlab_12-9-6-3-0--3	2	-30
+NFT021	WJ1106	2	left	1	5	5	5	5	5	3	0	23	2.5	matlab_12-9-6-3-0--3	1	-30
+NFT021	WJ1106	2	left	1	6	5	5	5	5	3	0	23	2.5	matlab_12-9-6-3-0--3	1	-30
+NFT021	WJ1106	2	right	2	7	5	5	5	4	2	0	21	4.5	matlab_12-9-6-3-0--3	3	-30
+NFT021	WJ1106	2	right	2	8	5	5	5	5	1	0	21	4.5	matlab_12-9-6-3-0--3	3	-30
+NFT021	WJ1109	3	left	1	9	5	5	5	4	0	1	20	5.5	matlab_12-9-6-3-0--3	5	-30
+NFT021	WJ1109	3	left	1	10	5	5	5	5	3	0	23	2.5	matlab_12-9-6-3-0--3	2	-30
+NFT021	WJ1109	3	right	2	11	5	5	4	5	4	0	23	2.5	matlab_12-9-6-3-0--3	4	-30
+NFT021	WJ1109	3	right	2	12	5	5	5	5	5	0	25	0.5	matlab_12-9-6-3-0--3	2	-30
