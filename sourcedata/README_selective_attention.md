@@ -2,20 +2,21 @@
 
 ## Overview
 
-This dataset contains EEG and behavioral data collected from a selective attention task. The data structure follows the Brain Imaging Data Structure (BIDS) format. This experiment was part of a larger data collection effort (including QuickSIN and Neurofeedback Rocket game) conducted in an electrically shielded, sound-treated booth in Iowa City, Iowa, USA.
+This dataset contains EEG and behavioral data collected from a selective attention task. The data structure follows the Brain Imaging Data Structure (BIDS) format. This experiment was part of a larger data collection effort (including QuickSIN and Neurofeedback Rocket game) conducted in an electrically shielded, sound-treated booth at the Health Sciences Academic Building, University of Iowa, Iowa City, Iowa, United States.
 
 ## Experimental Design
 
 ### Task (`task-selatt`)
 
-Participants were instructed to focus on either a male or female voice while ignoring a competing speaker.
+We presented ~10 mins of two podcasts simultaneously. One was a male talker, and the other was a female talker. Participants were instructed to focus on either a male or a female voice while ignoring a competing talker.
 
 - **Sessions:** Each participant completed 3 sessions.
-- **Runs per session:** Participants listened to two podcasts (one attending to the female voice, one attending to the male voice).
-- **Assessment:** 10 comprehensive questions were asked per podcast.
+- **Counterbalancing**: The order of the target voice and audio content was counterbalanced across participants using a Latin-square design (see `sourcedata/task-selatt_counterbalancing.tsv`).
+- **Assessment:** 10 comprehensive questions about the target podcast were asked in each block.
   - Format: 4 multiple-choice answers.
   - Input: Number keys (1, 2, 3, 4).
   - Feedback: None provided to the participant.
+  - Questions for each target audio are stored at `stimuli/task-selatt/questions`.
 
 ### Stimuli
 
@@ -26,7 +27,7 @@ Audio stimuli consisted of mixed male (AM) and female (KM) voices presented via 
   - SPL: [00] dB
   - RMS Matching: [0000]
 - **Source:** YouTube (Original links available in documentation).
-- **Location:** WAV files are stored in `audio-stimuli/task-selatt` prefixed with the stimulus code.
+- **Location:** WAV files are stored in `stimuli/task-selatt/audio`, prefixed with the stimulus code.
 
 ## Subjects
 
